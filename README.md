@@ -1,5 +1,6 @@
 
-## [Terraform Infrastructure for this project](https://github.com/cdeucher/terraform-python-lambdas-api-gateway)
+## IaC
+ - [Terraform Infrastructure for this project](https://github.com/cdeucher/terraform-python-lambdas-api-gateway)
 
 ## Install WebDriver
  - https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
